@@ -20,5 +20,5 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento do
  - [Digital Innovation One]().
  
 necessario unity fds
-# Repositório remoto
-remoto antes do clone
+# Repositório local
+local antes do clone
