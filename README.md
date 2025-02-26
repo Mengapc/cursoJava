@@ -19,4 +19,3 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento do
  ## 🔎 Referências
  - [Digital Innovation One]().
  
- //
